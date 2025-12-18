@@ -1,9 +1,9 @@
 # Insurance Cost Analysis and Prediction
 
-## 📌 Overview
+##  Overview
 This project analyzes health insurance data to understand the factors that affect medical insurance charges and to build a model that predicts insurance cost.
 
-## 🧾 Dataset
+##  Dataset
 The dataset contains information such as:
 - Age
 - Gender
@@ -13,7 +13,7 @@ The dataset contains information such as:
 - Region
 - Insurance charges
 
-## 🛠 Tools & Libraries
+##  Tools & Libraries
 - Python
 - Pandas
 - NumPy
@@ -21,7 +21,7 @@ The dataset contains information such as:
 - Seaborn
 - scikit-learn
 
-## 📊 Steps Followed
+##  Steps Followed
 1. Loaded and cleaned the dataset
 2. Performed exploratory data analysis (EDA) to understand relationships between features and insurance cost
 3. Visualized trends using graphs and plots
