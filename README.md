@@ -28,8 +28,8 @@ The dataset contains information such as:
 4. Built regression models to predict insurance charges
 5. Evaluated model performance using appropriate metrics
 
-## 📈 Results
+##  Results
 The analysis showed that smoking status and BMI are major factors influencing insurance cost.
 
-## 📌 How to Run
+##  How to Run
 Open the Jupyter notebook and run the cells sequentially.
